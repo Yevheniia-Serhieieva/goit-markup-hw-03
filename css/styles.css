@@ -257,12 +257,6 @@ main {
 
 .team-card {
     background-color: #FFFFFF;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    /* gap: 32px; */
     border-radius: 0 0 4px 4px;
     padding: 0 0 32px 0;
     width: 264px;
@@ -274,10 +268,7 @@ main {
 
 .team-card-title, .team-card-text {
     display: flex;
-    align-items: center;
-    justify-content: center;
     flex-direction: column;
-    /* gap: 8px; */
 }
 
 .team-card-title {
