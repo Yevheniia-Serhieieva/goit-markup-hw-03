@@ -186,7 +186,7 @@ main {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     margin-top: 48px;
-    max-width: 169px;
+    min-width: 169px;
     height: 56px;
     margin-left: auto;
     margin-right: auto;
